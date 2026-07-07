@@ -58,20 +58,3 @@ python-hotel-management-system/
 6. Exit
 ```
 
----
-
-## 🔮 Future Improvements
-
-* Save room data to a file
-* Booking history
-* Customer phone number
-* Billing and invoice generation
-* Deluxe/Standard room categories
-* Login system
-* GUI version using Tkinter
-
----
-
-## 👨‍💻 Author
-
-Made with Python for learning Object-Oriented Programming (OOP) and management system development.
