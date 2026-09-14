@@ -103,25 +103,3 @@ while True:
     print("6. Exit")
 
     choice = input("Enter your choice: ")
-
-    if choice == "1":
-        hotel.add_room()
-
-    elif choice == "2":
-        hotel.view_rooms()
-
-    elif choice == "3":
-        hotel.book_room()
-
-    elif choice == "4":
-        hotel.check_out()
-
-    elif choice == "5":
-        hotel.search_room()
-
-    elif choice == "6":
-        print("Thank you for using Hotel Management System!")
-        break
-
-    else:
-        print("Invalid choice!")
